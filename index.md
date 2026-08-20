@@ -32,7 +32,7 @@ This is a living document and repository for the development for the Daggerheart
   <a href="https://www.kickstarter.com/projects/whensuddenlygames/the-crypt-has-opened"><img src="files/Magic.gif"></a>
 </p>
 
-What if there was only one deity? What if they diety died? This is the starting point for The Rending of Palaghast. You live in a broken world, literally, that is besiged by daemons that swirl within the Abyssal Sea. Nine Exemplars -- living relics of the deceased god -- rule thier realms, grants divine powers to their worshippers, and protect the crumbling world.
+What if there was only one deity? What if that diety died? This is the starting point for The Rending of Palaghast. You live in a broken world, literally, that is besiged by daemons that swirl within the Abyssal Sea. Nine Exemplars -- living relics of the deceased god -- rule thier realms, grant divine powers to their worshippers, and protect the crumbling world.
 
 New Gods, beings who have gained their own divine powers beyond that of the Exemplars now threaten normalcy. While the practice of forbidden Abyssal Magic spreads throughout the Reliquaries.
 
