@@ -5,7 +5,7 @@ nav_order: 0
 image: /imgs/social-media-img.jpg
 ---
 <p align="center" width="100%">
-  <img src="imgs/palaghast-logo-small.png">
+  <img src="imgs/Daunten Cove - Logo.svg">
 </p>
 
 # Welcome to the online document for **Daunten Cove** 
