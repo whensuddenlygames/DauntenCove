@@ -8,6 +8,10 @@ image: /imgs/social-media-img.jpg
   <img src="imgs/Daunten Cove - Logo.svg">
 </p>
 
+<p align="center" width="100%">
+  <img src="imgs/DauntenCove.jpg">
+</p>
+
 # Welcome to the online document for **Daunten Cove** 
 This is a living document and repository for the development for the Daggerheart Campaign Frame.
 
