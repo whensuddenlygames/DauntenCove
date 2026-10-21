@@ -8,4 +8,16 @@ Complexity: 4
 
 *Read this to your players*
 
-Coming Soon.
+> The Dreaming Gods are eternal whose dreams created reality. They slept in the bosom of their mother Ithuna to rest from their creation.
+
+# Tone And Feel
+
+Post-World War Tension, Epic, Heroic, Diesel Punk, Expansive, Eldritch Horror
+
+# Themes
+
+Authoritarianism, Religious War, Divine Right, Demonology, People vs. gods, Exploration, World War
+
+# Touchstones
+
+The Great Escape, Dirty Dozen, Band of Brothers, Enemy at the Gates
